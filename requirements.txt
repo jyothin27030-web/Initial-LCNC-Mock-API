@@ -1,0 +1,3 @@
+Requirement already satisfied: fastapi
+Requirement already satisfied: uvicorn
+Requirement already satisfied: pydantic
